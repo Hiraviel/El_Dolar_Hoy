@@ -25,3 +25,7 @@ Notas:
 
 Hace la consulta directamente en el DOF, a traves de la url con el día en que se realiza la consulta.
 Tomar a consideración que el tipo de cambio se mantiene fines de semana, por lo que viernes, sabado y domingo el valor del dolor será el mismo.
+
+<h1>Archivo 03-request_dof_api</h1>
+Hace consulta a traves de la url, no hay que hacer scrapping, solo leer el JSON.
+Considerar que puede cambiar el orden de los elementos en el JSON en un futuro.
